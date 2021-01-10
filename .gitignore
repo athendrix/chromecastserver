@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+
+#Visual Studio Files
+*.suo
+.vs/
+*.user
