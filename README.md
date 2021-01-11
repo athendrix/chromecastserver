@@ -1,6 +1,6 @@
 This is a Chromecast server.
 
-Links should take the form http://<This Server>/cast?receiver=<Chromecast Device IP>&mi=<Path To Media>&random=true&repeat=true
+Links should take the form http://[This Server]/cast?receiver=[Chromecast Device IP]&mi=[Path To Media]&random=true&repeat=true
 	
 You can add many mi entries.
 
